@@ -1,6 +1,6 @@
 local player = game.Players.LocalPlayer
 
-if player.Name == "russianboi12k" , "1n319" then
+if player.Name == "1n319" then
     print("Whitelisted")
     else
 
